@@ -1,0 +1,110 @@
+serv_u_environment,serv_u_last_backup_category,serv_ip_address,serv_location,app_u_e2e_csm,serv_os,serv_u_backup_server,serv_name,serv_u_last_backup_status,bus_u_servicetower.u_function,serv_u_backup_software_vendor,serv_u_last_backup_time,bus_name,bus_support_group,serv_operational_status,serv_fqdn,app_u_application_criticality
+Production,,,EMEA,Sarah Mellor,Windows 2003 Standard,,aaa0001,,R&D,,,,,Operational,,Critical
+Production,,,EMEA,Sarah Mellor,Windows 2012 R2 Standard,,aaa0002,,Operations,,,,,Operational,,Critical
+Production,System,,Americas,Bob Todd,Oracle Linux 4/5/6 (64-bit),,aaa0003,,Shared Services,,,,,Operational,,Critical
+Production,System,,Americas,Bob Todd,Oracle Linux 4/5/6 (64-bit),,aaa0004,,Shared Services,,,,,Operational,,Critical
+Development,System,,EMEA,Sarah Mellor,Windows 2016 Standard,seskcommsrv ,aaa0005,,Operations,,,,,Operational,,Non-critical
+Development,,,Americas,Tony Lewis,Windows 2008 R2 Standard,,aaa0006,,R&D,,,,,Operational,,Non-critical
+Development,,,Americas,Tony Lewis,Windows 2008 R2 Standard,,aaa0007,,R&D,,,,,Operational,,Non-critical
+Production,System,,Americas,Bob Todd,Windows 2008 R2 Standard,,aaa0008,,R&D,,,,,Operational,,Application
+Production,System,,Americas,Bob Todd,Windows 2008 R2 Standard,,aaa0009,,R&D,,,,,Operational,,Application
+Production,System,,Americas,Bob Todd,Windows 2008 R2 Standard,,aaa00010,,R&D,,,,,Operational,,Application
+Production,System,,Americas,Bob Todd,Windows 2008 R2 Standard,,aaa00011,,R&D,,,,,Operational,,Application
+Training,System,,Americas,Tony Lewis,Windows 2016 Standard,,aaa00012,,R&D,,,,,Operational,,Non-critical
+Training,System,,Americas,Tony Lewis,Windows 2016 Standard,,aaa00013,,R&D,,,,,Operational,,Non-critical
+Training,System,,Americas,Tony Lewis,Windows 2016 Standard,,aaa00014,,R&D,,,,,Operational,,Non-critical
+Production,System,,Americas,Bob Todd,Windows 2016 Standard,,aaa00015,,Operations,,,,,Operational,,Non-critical
+Production,System,,Americas,Bob Todd,Microsoft Windows 7 Enterprise,,aaa00016,,Operations,,,,,Operational,,Non-critical
+Production,System,,Americas,Bob Todd,Windows 2008 R2 Standard,,aaa00017,,Operations,,,,,Operational,,Non-critical
+Development,System,,Americas,Tony Lewis,Windows 2008 R2 Standard,,aaa00018,,Operations,,,,,Operational,,Non-critical
+Development,System,,Americas,Tony Lewis,Windows 2008 R2 Standard,,aaa00019,,Operations,,,,,Operational,,Non-critical
+Development,System,,Americas,Tony Lewis,Microsoft Windows 7 Enterprise,,aaa00020,,Operations,,,,,Operational,,Non-critical
+Production,System,,APJ,Nick Costas,Windows 2016 Standard,,aaa00021,,Operations,,,,,Operational,,Non-critical
+Production,System,,APJ,Nick Costas,Windows 2008 R2 Standard,,aaa00022,,Operations,,,,,Operational,,Non-critical
+Development,System,,APJ,Nick Costas,Windows 2008 R2 Standard,,aaa00023,,Operations,,,,,Operational,,Non-critical
+Production,System,,APJ,Nick Costas,Windows 2008 R2 Standard,,aaa00024,,Operations,,,,,Operational,,Non-critical
+Production,System,,APJ,Nick Costas,Windows 2016 Standard,,aaa00025,,Operations,,,,,Operational,,Non-critical
+Production,System,,APJ,Nick Costas,Windows 2008 R2 Standard,,bbb00026,,Operations,,,,,Operational,,Non-critical
+Production,System,,APJ,Nick Costas,Windows 2008 R2 Standard,,bbb00027,,Operations,,,,,Operational,,Non-critical
+Development,System,,APJ,Nick Costas,Windows 2008 R2 Standard,,bbb00028,,Operations,,,,,Operational,,Non-critical
+Development,System,,APJ,Nick Costas,Windows 2008 R2 Standard,,bbb00029,,Operations,,,,,Operational,,Non-critical
+Development,System,,EMEA,Sarah Mellor,Linux Red Hat,seskcommsrv ,bbb00030,,Commercial,,,,,Operational,,Non-critical
+Production,System,,EMEA,Sarah Mellor,Windows 2016 Standard,seskcommsrv ,bbb00031,,End Users,,,,,Operational,,Critical
+Production,System,,EMEA,Sarah Mellor,Windows 2016 Standard,seskcommsrv ,bbb00032,,End Users,,,,,Operational,,Critical
+Production,System,,EMEA,Sarah Mellor,Windows 2016 Standard,seskcommsrv ,bbb00033,,End Users,,,,,Operational,,Critical
+Production,System,,EMEA,Sarah Mellor,Windows 2016 Standard,SGKCCOMMSRV,bbb00034,,End Users,,,,,Operational,,Critical
+Production,System,,APJ,Nick Costas,Windows 2016 Standard,SGKCCOMMSRV,bbb00035,,End Users,,,,,Operational,,Critical
+Production,System,,EMEA,Michael Cade,Windows 2016 Standard,seskcommsrv ,bbb00036,,End Users,,,,,Operational,,Critical
+Development,,,EMEA,Michael Cade,Windows 2012 R2 Standard,IECDLNBU01,bbb00037,,End Users,,,,,Operational,,Non-critical
+Test,,,EMEA,Michael Cade,Windows 2016 Standard,,bbb00038,,End Users,,,,,Operational,,Non-critical
+Test,,,EMEA,Michael Cade,Windows 2016 Standard,,bbb00039,,End Users,,,,,Operational,,Non-critical
+Production,,,EMEA,Michael Cade,Windows 2012 R2 Standard,,bbb00040,,End Users,,,,,Operational,,Critical
+Production,,,EMEA,Michael Cade,Windows 2016 Standard,,bbb00041,,End Users,,,,,Operational,,Critical
+Development,System,,EMEA,Michael Cade,Windows 2016 Standard,seskcommsrv ,bbb00042,,R&D,,,,,Operational,,Non-critical
+Development,System,,EMEA,Michael Cade,Windows 2016 Standard,seskcommsrv ,bbb00043,,R&D,,,,,Operational,,Non-critical
+Development,,,APJ,Nick Costas,Windows 2016 Standard,,bbb00044,,Commercial,,,,,Operational,,Non-critical
+Test,System,,APJ,Nick Costas,Windows 2016 Standard,SGKCCOMMSRV,bbb00045,,Commercial,,,,,Operational,,Non-critical
+Production,,,APJ,Nick Costas,Windows 2016 Standard,,bbb00046,,Commercial,,,,,Operational,,Critical
+Test,System,,APJ,Nick Costas,Windows 2008 R2 Enterprise,SGKCCOMMSRV,bbb00047,,Commercial,,,,,Operational,,Critical
+Test,System,,APJ,Nick Costas,Windows 2008 R2 Enterprise,SGKCCOMMSRV,bbb00048,,Commercial,,,,,Operational,,Non-critical
+Production,System,,Americas,Bob Todd,Linux Red Hat,SGKCCOMMSRV,bbb00049,,Commercial,,,,,Operational,,Critical
+Production,,,Americas,Bob Todd,Windows 2016 Standard,,ccc000050,,Commercial,,,,,Operational,,Critical
+Test,,,Americas,Tony Lewis,Windows 2016 Standard,,ccc000051,,Commercial,,,,,Operational,,Non-critical
+Test,System,,Americas,Tony Lewis,Windows 2008 R2 Enterprise,SGKCCOMMSRV,ccc000052,,Commercial,,,,,Operational,,Non-critical
+Production,System,,Americas,Bob Todd,Windows 2003 Standard,seskcommsrv ,ccc000053,,Commercial,,,,,Operational,,Critical
+Production,System,,Americas,Bob Todd,Oracle Linux 4/5/6 (64-bit),,ccc000054,,Shared Services,,,,,Operational,,Critical
+Production,System,,Americas,Bob Todd,Oracle Linux 4/5/6 (64-bit),,ccc000055,,Shared Services,,,,,Operational,,Critical
+Production,System,,Americas,Bob Todd,Oracle Linux 4/5/6 (64-bit),seskcommsrv ,ccc000056,,Shared Services,,,,,Operational,,Critical
+Production,System,,Americas,Bob Todd,Oracle Linux 4/5/6 (64-bit),seskcommsrv ,ccc000057,,Shared Services,,,,,Operational,,Non-critical
+Production,System,,Americas,Bob Todd,Linux Red Hat,seskcommsrv ,ccc000058,,Shared Services,,,,,Operational,,Non-critical
+Production,System,,Americas,Bob Todd,Oracle Linux 4/5/6 (64-bit),seskcommsrv ,ccc000059,,Shared Services,,,,,Operational,,Non-critical
+Production,System,,EMEA,Sarah Mellor,Oracle Linux 4/5/6 (64-bit),seskcommsrv ,ccc000060,,Shared Services,,,,,Operational,,Non-critical
+Production,System,,EMEA,Sarah Mellor,Oracle Linux 4/5/6 (64-bit),seskcommsrv ,ccc000061,,Shared Services,,,,,Operational,,Non-critical
+Production,System,,EMEA,Sarah Mellor,Oracle Linux 4/5/6 (64-bit),seskcommsrv ,ccc000062,,Shared Services,,,,,Operational,,Non-critical
+Production,System,,EMEA,Sarah Mellor,Oracle Linux 4/5/6 (64-bit),seskcommsrv ,ccc000063,,Shared Services,,,,,Operational,,Non-critical
+Production,System,,EMEA,Sarah Mellor,Windows 2008 R2 Standard,seskcommsrv ,ccc000064,,R&D,,,,,Operational,,Application
+Production,System,,EMEA,Sarah Mellor,Windows 2003 Enterprise,seskcommsrv ,ccc000065,,R&D,,,,,Operational,,Application
+Production,System,,EMEA,Sarah Mellor,Windows 2003 Enterprise,seskcommsrv ,ccc000066,,R&D,,,,,Operational,,Application
+Production,System,,EMEA,Sarah Mellor,Windows 2003 Standard,,ccc000067,,R&D,,,,,Operational,,Application
+Production,System,,EMEA,Sarah Mellor,Windows 2008 R2 Enterprise,seskcommsrv ,ccc000068,,R&D,,,,,Operational,,Application
+Production,System,,EMEA,Sarah Mellor,Windows 2012 R2 Standard,seskcommsrv ,ccc000069,,R&D,,,,,Operational,,Application
+Production,Database,,EMEA,Sarah Mellor,Windows 2008 R2 Enterprise,seskcommsrv ,ccc000070,,R&D,,,,,Operational,,Application
+Production,System,,EMEA,Sarah Mellor,Windows 2008 R2 Standard,seskcommsrv ,ccc000071,,R&D,,,,,Operational,,Application
+Production,System,,EMEA,Sarah Mellor,Windows 2012 R2 Standard,seskcommsrv ,ccc000072,,R&D,,,,,Operational,,Application
+Development,System,,EMEA,Michael Cade,Linux Red Hat,,ccc000073,,R&D,,,,,Operational,,Non-critical
+Production,Database,,APJ,Nick Costas,Windows 2016 Standard,SGKCCOMMSRV,ccc000074,,Commercial,,,,,Operational,,Non-critical
+Test,System,,APJ,Nick Costas,Linux Red Hat,seskcommsrv ,ccc000075,,Commercial,,,,,Operational,,Non-critical
+Test,System,,APJ,Nick Costas,Linux Red Hat,seskcommsrv ,ddd000076,,Commercial,,,,,Operational,,Non-critical
+Development,System,,APJ,Nick Costas,Linux Red Hat,seskcommsrv ,ddd000077,,Commercial,,,,,Operational,,Non-critical
+Development,System,,APJ,Nick Costas,Linux Red Hat,seskcommsrv ,ddd000078,,Commercial,,,,,Operational,,Non-critical
+Production,Database,,APJ,Nick Costas,Oracle Linux 4/5/6 (64-bit),seskcommsrv ,ddd000079,,R&D,,,,,Operational,,Non-critical
+Production,System,,APJ,Nick Costas,Linux Red Hat,seskcommsrv ,ddd000080,,R&D,,,,,Operational,,Non-critical
+Production,System,,APJ,Nick Costas,Linux Red Hat,SESKLCMVBKP01,ddd000081,,R&D,,,,,Operational,,Non-critical
+Production,System,,APJ,Nick Costas,Linux Red Hat,seskcommsrv ,ddd000082,,R&D,,,,,Operational,,Non-critical
+Development,System,,Americas,Bob Todd,Windows 2016 Standard,,ddd000083,,Commercial,,,,,Operational,,Non-critical
+Development,System,,Americas,Bob Todd,Windows 2016 Standard,,ddd000084,,Commercial,,,,,Operational,,Non-critical
+Production,System,,Americas,Bob Todd,Windows 2008 R2 Standard,,ddd000085,,Commercial,,,,,Operational,,Critical
+Production,System,,Americas,Bob Todd,Windows 2016 Standard,,ddd000086,,Commercial,,,,,Operational,,Critical
+Production,System,,Americas,Bob Todd,Windows 2008 R2 Standard,,ddd000087,,Commercial,,,,,Operational,,Critical
+Production,System,,Americas,Bob Todd,Windows 2016 Standard,,ddd000088,,Commercial,,,,,Operational,,Critical
+Development,System,,Americas,Bob Todd,Windows 2016 Standard,,ddd000089,,Commercial,,,,,Operational,,Non-critical
+Production,System,,Americas,Bob Todd,Windows 2016 Standard,,ddd000090,,Commercial,,,,,Operational,,Critical
+Production,System,,Americas,Bob Todd,Windows 2016 Standard,,ddd000091,,Commercial,,,,,Operational,,Critical
+Production,System,,Americas,Bob Todd,Windows 2008 R2 Standard,,ddd000092,,Commercial,,,,,Operational,,Critical
+Development,System,,Americas,Bob Todd,Windows 2016 Standard,,ddd000093,,Commercial,,,,,Operational,,Critical
+Production,System,,Americas,Bob Todd,Windows 2008 R2 Standard,,ddd000094,,Commercial,,,,,Operational,,Critical
+Production,System,,Americas,Bob Todd,Windows 2016 Standard,,ddd000095,,Commercial,,,,,Operational,,Critical
+Production,System,,Americas,Bob Todd,Windows 2008 R2 Standard,,ddd000096,,Commercial,,,,,Operational,,Critical
+Production,System,,Americas,Bob Todd,Windows 2016 Standard,,ddd000097,,Commercial,,,,,Operational,,Critical
+Production,System,,Americas,Bob Todd,Windows 2008 R2 Standard,,ddd000098,,Commercial,,,,,Operational,,Non-critical
+Development,System,,Americas,Bob Todd,Windows 2016 Standard,,ddd000099,,Commercial,,,,,Operational,,Non-critical
+Development,System,,Americas,Bob Todd,Windows 2016 Standard,,ddd0000100,,Commercial,,,,,Operational,,Non-critical
+Production,System,,Americas,Bob Todd,Windows 2008 R2 Standard,,fff0000101,,Commercial,,,,,Operational,,Non-critical
+Production,System,,Americas,Bob Todd,Windows 2016 Standard,,fff0000102,,Commercial,,,,,Operational,,Non-critical
+Development,System,,Americas,Bob Todd,Windows 2016 Standard,,fff0000103,,Commercial,,,,,Operational,,Non-critical
+Production,System,,Americas,Bob Todd,Windows 2008 R2 Standard,,fff0000104,,Commercial,,,,,Operational,,Non-critical
+Production,System,,Americas,Bob Todd,Windows 2016 Standard,,fff0000105,,Commercial,,,,,Operational,,Non-critical
+Production,System,,Americas,Bob Todd,Windows 2008 R2 Standard,,fff0000106,,Commercial,,,,,Operational,,Non-critical
+Production,System,,Americas,Bob Todd,Windows 2016 Standard,,fff0000107,,Commercial,,,,,Operational,,Non-critical
+Production,System,,Americas,Bob Todd,Windows 2016 Standard,,fff0000108,,Commercial,,,,,Operational,,Non-critical
+Development,System,,Americas,Bob Todd,Windows 2016 Standard,,fff0000109,,Commercial,,,,,Operational,,Critical
